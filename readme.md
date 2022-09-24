@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Basic Counter [Live Link](https://name-conversion-js.netlify.app/)
+## Basic Counter [Live Link](https://basic-counterr.netlify.app/)
 
 - Skills Gained in this project
 
